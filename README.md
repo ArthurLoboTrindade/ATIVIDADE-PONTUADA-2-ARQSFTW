@@ -1,8 +1,3 @@
-# PÁGINA INICIAL
+#VISITOR
 
-Cada branch se refere a um dos padrões de extensão. E dentro de cada uma delas está a definição do padrão, seguido de um exemplo de sua aplicação.
-
-- [Decorator](ATIVIDADE-PONTUADA-2-ARQSFTW/Decorator)
-- [Iterator](ATIVIDADE-PONTUADA-2-ARQSFTW/Iterator)
-- [Visitor](ATIVIDADE-PONTUADA-2-ARQSFTW/Visitor) 
-
+Padrão de Extensão = Visitor: Separa um algoritmo da estrutura de objetos sobre a qual ele opera. Ele permite que você crie novas operações para um grupo de classes sem precisar modificar o código dessas classes.
