@@ -1,8 +1,4 @@
-# PÁGINA INICIAL
+# DECORATOR
 
-Cada branch se refere a um dos padrões de extensão. E dentro de cada uma delas está a definição do padrão, seguido de um exemplo de sua aplicação.
-
-- [Decorator](ATIVIDADE-PONTUADA-2-ARQSFTW/Decorator)
-- [Iterator](ATIVIDADE-PONTUADA-2-ARQSFTW/Iterator)
-- [Visitor](ATIVIDADE-PONTUADA-2-ARQSFTW/Visitor) 
+Padrão de Extensão = Decorator: padrão de projeto que permite adicionar responsabilidades ou comportamentos a um objeto dinamicamente através de invólucros de objetos, que contém os comportamentos. Assim evitando a criação de infinitas subclasses para cada combinação possível. 
 
